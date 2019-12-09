@@ -4,3 +4,5 @@
 1. 加载：cnpm i 
 2. 运行：npm run electron:serve
 3. 打包：npm run electron:build
+## des
+渲染部分就按照vue的语法去写就可以了
